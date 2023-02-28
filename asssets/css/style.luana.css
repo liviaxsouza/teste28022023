@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;   
+    
+}
+
+#input_enviar:hover {
+    border-radius: 10px;
+}
+

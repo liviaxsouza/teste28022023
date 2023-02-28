@@ -1,4 +1,10 @@
 form {
     display: flex;
     flex-direction: column;
+    width: 50%;
+
+}
+
+#div_1 {
+    width: 30%;
 }

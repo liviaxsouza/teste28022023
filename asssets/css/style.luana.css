@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border-radius: 10px;
+    
+}
+
+div {
+    line-height: 30%;
+}
+

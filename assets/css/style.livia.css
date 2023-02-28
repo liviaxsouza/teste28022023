@@ -2,9 +2,16 @@ form {
     display: flex;
     flex-direction: column;
     width: 50%;
-    border-radius: 10px;
+    margin: auto;
+
 }
 
-div {
+input {
+    margin: 8px;
+    border-radius: 10px;
+    border-color: midnightblue;
+}
+
+#input_separacao {
     
 }
